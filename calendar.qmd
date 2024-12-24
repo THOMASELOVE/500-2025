@@ -23,9 +23,7 @@ During the course, we will read Paul Rosenbaum's book **Causal Inference** (abbr
 
 ## January 2025
 
-### Class 01 (2025-01-16)
-
-- Web Link for [Class 01]()
+### [Class 01 (2025-01-16) Link](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class01)
 
 Zoom class 1 will take place on Thursday 2025-01-16 from 10-11 AM. Complete the following prior to that session:
 
