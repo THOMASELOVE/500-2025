@@ -13,7 +13,7 @@ website:
       - text: "Calendar"
         href: calendar.qmd
       - text: "Syllabus"
-        href: construction.qmd
+        href: https://thomaselove.github.io/500-syllabus-2025/
       - text: "Software"
         href: software.qmd
       - text: "Get Data"

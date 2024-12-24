@@ -25,6 +25,8 @@ During the course, we will read Paul Rosenbaum's book **Causal Inference** (abbr
 
 ### Class 01 (2025-01-16)
 
+- Web Link for [Class 01]()
+
 Zoom class 1 will take place on Thursday 2025-01-16 from 10-11 AM. Complete the following prior to that session:
 
 - Watch recorded Lecture 1: RCTs and Observational Studies; A Motivating Example
