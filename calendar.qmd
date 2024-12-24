@@ -1,0 +1,167 @@
+---
+title: "Calendar for 500: Spring 2025"
+date-modified: last-modified
+---
+
+This Calendar serves as the final word on all deadlines, deliverables and class sessions. 
+
+## Timing and Location
+
+- Thanks to Dr. Love's broken leg, this year's 500 class will be held **remotely** before Spring Break, and then in person starting March 20.
+- The first eight classes will be held via Zoom from **10-11 AM** on Thursday mornings.
+- In person classes (Classes 9-14) will be held on Thursdays from **8:30 - 11:15 AM** in Wolstein Research Building, Room 1217.
+
+## Email and Office Hours
+
+- Contact Dr. Love at **thomas** dot **love** at **case** dot **edu** if you have any questions, any time after 2025-01-06.
+- Dr. Love will hold office hours after class on Thursdays from 11 AM to Noon. Just let him know during class if you want to speak with him afterwards.
+- For more information, visit [Contact Us](contact.qmd).
+
+## Readings
+
+During the course, we will read Paul Rosenbaum's book **Causal Inference** (abbreviated **PRR CI** below), which is available as an e-book or in paperback for under $15. Please obtain the book before our first class on 2025-01-16, and get started reading it as soon as possible.
+
+## January 2025
+
+### Class 01 (2025-01-16)
+
+Zoom class 1 will take place on Thursday 2025-01-16 from 10-11 AM. Complete the following prior to that session:
+
+- Watch recorded Lecture 1: RCTs and Observational Studies; A Motivating Example
+- Complete reading before Class 1: 
+  - Benson and Hartz 2000 from [Sources](https://github.com/THOMASELOVE/500-sources)
+  - **PRR CI** through Chapter 2, if possible.
+
+### Class 02 (2025-01-23)
+
+Zoom class 2 will take place on Thursday 2025-01-23 from 10-11 AM. Complete the following prior to that session:
+
+- Watch recorded Lecture 2: STROBE, HRT, Assessing Causal Effects, Propensity Score
+- Get R and RStudio plus the necessary R packages installed/updated on your machine, following the [software](software.qmd) instructions.
+- Work through [Lab 0](lab0.qmd), referring to the [template and sketch](lab0.qmd). There's nothing to turn in, but it will help with future labs.
+- Complete reading before Class 2: 
+  1. **PRR CI** through Chapter 3,
+  2. Abramson Chapter 2 from [Sources](https://github.com/THOMASELOVE/500-sources),
+  3. McGowan blog post from [Sources](https://github.com/THOMASELOVE/500-sources),
+  4. Bradford Hill 1965 from [Sources](https://github.com/THOMASELOVE/500-sources).
+
+### Class 03 (2025-01-30)
+
+Zoom class 3 will take place on Thursday 2025-01-30 from 10-11 AM. Complete the following prior to that session:
+
+- Watch recorded Lecture 3: Building the PS Model, Matching/Stratification/Adjustment, Love Plots
+- Complete and Submit [Lab 1](lab1.qmd) to [Canvas](https://canvas.case.edu/) by **9 AM** on 2025-01-30.
+- Your [OSIA selections](osia.qmd) to **Thomas** dot **Love** at **case** dot **edu** by **9 AM on Wednesday, 2025-02-19** but you can send them earlier to lock that in.
+- Complete reading before Class 3: 
+  1. **PRR CI** through Chapter 4,
+  2. Gum 2001 from [Sources](https://github.com/THOMASELOVE/500-sources),
+  3. skim Connors 1996 from [Sources](https://github.com/THOMASELOVE/500-sources)
+
+## February 2025
+
+### Class 04 (2025-02-06)
+
+Zoom class 4 will take place on Thursday 2025-02-06 from 10-11 AM. Complete the following prior to that session:
+
+- Watch recorded Lecture 4: Doing all of this in R: The toy example
+- Begin drafting your [Project](proj500.qmd) Proposal, which is due next week.
+- Complete reading before Class 4: 
+  1. **PRR CI** through Chapter 5,
+  2. Normand 2001 from [Sources](https://github.com/THOMASELOVE/500-sources)
+
+### Class 05 (2025-02-13)
+
+Zoom class 5 will take place on Thursday 2025-02-13 from 10-11 AM. Complete the following prior to that session:
+
+- Watch recorded Lecture 5: More R Examples, Choosing a Matching Approach, Feinstein’s Model
+- Complete and submit [Project](proj500.qmd) Proposal Draft 1 to Canvas by **9 AM on 2025-02-13**.
+- Complete reading before Class 5: 
+  1. **PRR CI** through Chapter 6.
+  2. Austin and Mamdani 2006, from [Sources](https://github.com/THOMASELOVE/500-sources)
+ 
+### Class 06 (2025-02-20)
+
+Zoom class 6 will take place on Thursday 2025-02-20 from 10-11 AM. Complete the following prior to that session:
+
+- Watch recorded Lecture 6: Rubin (2001) in detail, Kubo (2020) as an OSIA example
+- Complete and submit [Lab 2](lab2.qmd) to Canvas by **9 AM on 2025-02-20**.
+- Email [OSIA selections](osia.qmd) to **Thomas** dot **Love** at **case** dot **edu** by **9 AM on Wednesday 2025-02-19**.
+- Complete reading before Class 6: 
+  1. Rubin 2001 from [Sources](https://github.com/THOMASELOVE/500-sources)
+  2. Kubo 2020 from [Sources](https://github.com/THOMASELOVE/500-sources)
+
+### Class 07 (2025-02-27)
+
+Zoom class 7 will take place on Thursday 2025-02-27 from 10-11 AM. Complete the following prior to that session:
+
+- Watch recorded Lecture 7: The SUPPORT Study, Sensitivity Analyses after Matching
+- Complete and submit [Project](proj500.qmd) Proposal Draft 2 to Canvas by **9 AM on Thursday 2025-02-27**.
+- Complete reading before Class 7: 
+  1. read Connors 1996 from [Sources](https://github.com/THOMASELOVE/500-sources)
+  2. D'Agostino Jr 1998 from [Sources](https://github.com/THOMASELOVE/500-sources)
+
+## March 2025
+
+### Class 08 (2025-03-06)
+
+Zoom class 8 will take place on Thursday 2025-03-06 from 10-11 AM. Complete the following prior to that session:
+
+- Watch recorded Lecture 8: Extensions to Matching, Instrumental Variables
+- Complete and submit [Lab 3](lab3.qmd) to Canvas by **9 AM on 2025-03-06**.
+- Complete reading before Class 8: 
+  1. **PRR CI** through Chapter 7.
+  2. Tanenbaum 2019 from [Sources](https://github.com/THOMASELOVE/500-sources)
+  3. Elbadawi 2021 from [Sources](https://github.com/THOMASELOVE/500-sources)
+
+### Spring Break includes 2025-03-13
+
+### Class 09 (2025-03-20)
+
+This, I hope, will be our first in-person class, starting at 8:30 AM and running until 11:15 AM in Wolstein Research Building, room 1217.
+
+- Complete and submit [Lab 4](lab4.qmd) to Canvas by **8 AM on 2025-03-20**.
+- OSIA session 1 (schedule TBA)
+- Complete reading of **PRR CI** through Chapter 8.
+
+### Class 10 (2025-03-27)
+
+Again, I hope this will be in person, starting at 8:30 AM and running until 11:15 AM in Wolstein Research Building, room 1217.
+
+- OSIA session 2 (schedule TBA)
+- Complete reading of **PRR CI** through Chapter 9.
+
+## April 2025
+
+### Class 11 (2025-04-03)
+
+Again, I hope this will be in person, starting at 8:30 AM and running until 11:15 AM in Wolstein Research Building, room 1217.
+
+- OSIA session 3 (schedule TBA)
+- Final discussion and Q&A for projects before presentations (which start next week.)
+
+### Class 12 (2025-04-10)
+
+This should be in person, starting at 8:30 AM and running until 11:15 AM in Wolstein Research Building, room 1217.
+
+- Project Presentations group A (schedule TBA)
+
+### Class 13 (2025-04-17)
+
+This should be in person, starting at 8:30 AM and running until 11:15 AM in Wolstein Research Building, room 1217.
+
+- Project Presentations group B (schedule TBA)
+
+### Class 14 (2025-04-24)
+
+This should be in person, starting at 8:30 AM and running until 11:15 AM in Wolstein Research Building, room 1217.
+
+- Project Presentations group C (schedule TBA)
+
+## Final Deadlines
+
+- Final Project Submissions are due to [Canvas](https://canvas.case.edu/) at **9 AM on Monday 2024-04-28** from everyone regardless of when you give your project presentation.
+- When prompted via email by the University (usually in late April), please visit <https://webapps.case.edu/courseevals/> and complete the course evaluations before they close.
+
+
+
+
