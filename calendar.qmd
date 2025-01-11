@@ -32,7 +32,7 @@ Zoom class 1 will take place on Thursday 2025-01-16 from 10-11 AM. Complete the 
   - Benson and Hartz 2000 from [Sources](https://github.com/THOMASELOVE/500-sources)
   - **PRR CI** through Chapter 2, if possible.
 
-### Class 02 (2025-01-23)
+### [Class 02 (2025-01-23) Link](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class02)
 
 Zoom class 2 will take place on Thursday 2025-01-23 from 10-11 AM. Complete the following prior to that session:
 
@@ -45,7 +45,7 @@ Zoom class 2 will take place on Thursday 2025-01-23 from 10-11 AM. Complete the 
   3. McGowan blog post from [Sources](https://github.com/THOMASELOVE/500-sources),
   4. Bradford Hill 1965 from [Sources](https://github.com/THOMASELOVE/500-sources).
 
-### Class 03 (2025-01-30)
+### [Class 03 (2025-01-30) Link](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class03)
 
 Zoom class 3 will take place on Thursday 2025-01-30 from 10-11 AM. Complete the following prior to that session:
 
