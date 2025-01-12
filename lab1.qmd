@@ -11,7 +11,7 @@ format:
 - Submit your work via [Canvas](https://canvas.case.edu/). 
 - The deadline for this Lab is specified on the [Calendar](calendar.qmd).
 
-Your response should include both a Quarto file (.qmd) and an HTML document that is the result of applying your Quarto file to the data we've provided. A good name for these files would begin with `YOUR_NAME_500Lab1_DATE`, for instance, `Pat_Smith_500Lab1_2024-02-01.qmd`
+Your response should include both a Quarto file (.qmd) and an HTML document that is the result of applying your Quarto file to the data we've provided. A good name for these files would begin with `YOUR_NAME_500Lab1_DATE`, for instance, `Pat_Smith_500Lab1_2025-02-01.qmd`
 
 ## 1. Get access to the DIG training data
 

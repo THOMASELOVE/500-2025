@@ -39,8 +39,7 @@ website:
 
 format:
   html:
-    theme: simplex
-    css: styles.css
+    theme: zephyr
     toc: true
     date-format: iso
     code-overflow: wrap
