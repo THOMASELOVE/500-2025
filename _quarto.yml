@@ -18,6 +18,8 @@ website:
         href: software.qmd
       - text: "Get Data"
         href: https://github.com/THOMASELOVE/500-data
+      - text: "Examples"
+        href: https://thomaselove.github.io/500-examples/
       - text: "Sources"
         href: https://github.com/THOMASELOVE/500-sources
       - text: "Labs"

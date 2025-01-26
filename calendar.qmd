@@ -64,10 +64,11 @@ Zoom class 3 will take place on Thursday 2025-01-30 from 10-11 AM. Complete the 
 Zoom class 4 will take place on Thursday 2025-02-06 from 10-11 AM. Complete the following prior to that session:
 
 - Watch recorded Lecture 4: Doing all of this in R: The toy example
+- The [Examples section of our website](https://thomaselove.github.io/500-examples/) provides [the toy example](https://thomaselove.github.io/500-examples/toy_analysis.html), as well as [the lindner example](https://thomaselove.github.io/500-examples/#the-lindner-example), which does a lot of the same things in a slightly different way.
 - Begin drafting your [Project](proj500.qmd) Proposal, which is due next week.
 - Complete reading before Class 4: 
   1. **PRR CI** through Chapter 5,
-  2. Normand 2001 from [Sources](https://github.com/THOMASELOVE/500-sources)
+  2. Skim Normand 2001 from [Sources](https://github.com/THOMASELOVE/500-sources)
 
 ### Class 05 (2025-02-13)
 
