@@ -74,22 +74,24 @@ Zoom class 4 will take place on Thursday 2025-02-06 from 10-11 AM. Complete the 
 
 Zoom class 5 will take place on Thursday 2025-02-13 from 10-11 AM. Complete the following prior to that session:
 
-- Watch recorded Lecture 5: More R Examples, Choosing a Matching Approach, Feinstein’s Model
+- Watch recorded Lecture 5: The lindner example, The dm2200 example, Choosing a Matching Approach
 - Complete and submit [Project](proj500.qmd) Proposal Draft 1 to Canvas by **9 AM on 2025-02-13**.
 - Complete reading before Class 5: 
-  1. **PRR CI** through Chapter 6.
-  2. Austin and Mamdani 2006, from [Sources](https://github.com/THOMASELOVE/500-sources)
+  1. **PRR CI** through Chapter 6 (which is very short.)
+  2. Austin 2014 Comparing 12 PS Matching algorithms (see [our Sources page](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Austin%202014%20Comparing%2012%20PS%20matching%20algorithms.pdf)) 
+  3. Skim Ahmed MI et al 2012 (see [our Sources page](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Ahmed%20et%20al%202012%20Int%20J%20Card.pdf)) 
  
 ### [Class 06 (2025-02-20) link](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class06)
 
 Zoom class 6 will take place on Thursday 2025-02-20 from 10-11 AM. Complete the following prior to that session:
 
-- Watch recorded Lecture 6: Rubin (2001) in detail, Kubo (2020) as an OSIA example
+- Watch recorded Lecture 6: Rubin (2001) and Rubin's Rules in [our first 3 examples](https://thomaselove.github.io/500-examples/)
 - Complete and submit [Lab 2](lab2.qmd) to Canvas by **9 AM on 2025-02-20**.
 - Email [OSIA selections](osia.qmd) to **Thomas** dot **Love** at **case** dot **edu** by **9 AM on Wednesday 2025-02-19**.
 - Complete reading before Class 6: 
-  1. Rubin 2001 from [Sources](https://github.com/THOMASELOVE/500-sources)
-  2. Kubo 2020 from [Sources](https://github.com/THOMASELOVE/500-sources)
+  1. Read Rubin 2001 from [Sources](https://github.com/THOMASELOVE/500-sources)
+  2. Skim Austin and Mamdani 2006, from [Sources](https://github.com/THOMASELOVE/500-sources)
+  3. Skim Kubo 2020 from [Sources](https://github.com/THOMASELOVE/500-sources)
 
 ### [Class 07 (2025-02-27) link](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class07)
 
