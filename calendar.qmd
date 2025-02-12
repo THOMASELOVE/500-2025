@@ -21,41 +21,6 @@ This Calendar serves as the final word on all deadlines, deliverables and class 
 
 During the course, we will read Paul Rosenbaum's book **Causal Inference** (abbreviated **PRR CI** below), which is available as an e-book or in paperback for under $15. Please obtain the book before our first class on 2025-01-16, and get started reading it as soon as possible.
 
-## January 2025
-
-### [Class 01 (2025-01-16) Link](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class01)
-
-Zoom class 1 will take place on Thursday 2025-01-16 from 10-11 AM. Complete the following prior to that session:
-
-- Watch recorded Lecture 1: RCTs and Observational Studies; A Motivating Example
-- Complete reading before Class 1: 
-  - Benson and Hartz 2000 from [Sources](https://github.com/THOMASELOVE/500-sources)
-  - **PRR CI** through Chapter 2, if possible.
-
-### [Class 02 (2025-01-23) Link](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class02)
-
-Zoom class 2 will take place on Thursday 2025-01-23 from 10-11 AM. Complete the following prior to that session:
-
-- Watch recorded Lecture 2: STROBE, HRT, Assessing Causal Effects, Propensity Score
-- Get R and RStudio plus the necessary R packages installed/updated on your machine, following the [software](software.qmd) instructions.
-- Work through [Lab 0](lab0.qmd), referring to the [template and sketch](lab0.qmd). There's nothing to turn in, but it will help with future labs.
-- Complete reading before Class 2: 
-  1. **PRR CI** through Chapter 3,
-  2. Abramson Chapter 2 from [Sources](https://github.com/THOMASELOVE/500-sources),
-  3. McGowan blog post from [Sources](https://github.com/THOMASELOVE/500-sources),
-  4. Bradford Hill 1965 from [Sources](https://github.com/THOMASELOVE/500-sources).
-
-### [Class 03 (2025-01-30) Link](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class03)
-
-Zoom class 3 will take place on Thursday 2025-01-30 from 10-11 AM. Complete the following prior to that session:
-
-- Watch recorded Lecture 3: Building the PS Model, Matching/Stratification/Adjustment, Love Plots
-- Complete and Submit [Lab 1](lab1.qmd) to [Canvas](https://canvas.case.edu/) by **9 AM** on 2025-01-30.
-- Your [OSIA selections](osia.qmd) to **Thomas** dot **Love** at **case** dot **edu** by **9 AM on Wednesday, 2025-02-19** but you can send them earlier to lock that in.
-- Complete reading before Class 3: 
-  1. **PRR CI** through Chapter 4,
-  2. Gum 2001 from [Sources](https://github.com/THOMASELOVE/500-sources),
-  3. skim Connors 1996 from [Sources](https://github.com/THOMASELOVE/500-sources)
 
 ## February 2025
 
@@ -85,23 +50,25 @@ Zoom class 5 will take place on Thursday 2025-02-13 from 10-11 AM. Complete the 
 
 Zoom class 6 will take place on Thursday 2025-02-20 from 10-11 AM. Complete the following prior to that session:
 
-- Watch recorded Lecture 6: Rubin (2001) and Rubin's Rules in [our first 3 examples](https://thomaselove.github.io/500-examples/)
+- Watch recorded Lecture 6: Rubin (2001) and Rubin's Rules in [our examples](https://thomaselove.github.io/500-examples/), Austin & Mamdani
 - Complete and submit [Lab 2](lab2.qmd) to Canvas by **9 AM on 2025-02-20**.
 - Email [OSIA selections](osia.qmd) to **Thomas** dot **Love** at **case** dot **edu** by **9 AM on Wednesday 2025-02-19**.
 - Complete reading before Class 6: 
   1. Read Rubin 2001 from [Sources](https://github.com/THOMASELOVE/500-sources)
   2. Skim Austin and Mamdani 2006, from [Sources](https://github.com/THOMASELOVE/500-sources)
   3. Skim Kubo 2020 from [Sources](https://github.com/THOMASELOVE/500-sources)
+  4. Skim Hansen 2004 from [Sources](https://github.com/THOMASELOVE/500-sources)
 
 ### [Class 07 (2025-02-27) link](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class07)
 
 Zoom class 7 will take place on Thursday 2025-02-27 from 10-11 AM. Complete the following prior to that session:
 
 - Watch recorded Lecture 7: The SUPPORT Study, Sensitivity Analyses after Matching
-- Complete and submit [Project](proj500.qmd) Proposal Draft 2 to Canvas by **9 AM on Thursday 2025-02-27**.
 - Complete reading before Class 7: 
-  1. read Connors 1996 from [Sources](https://github.com/THOMASELOVE/500-sources)
-  2. D'Agostino Jr 1998 from [Sources](https://github.com/THOMASELOVE/500-sources)
+  1. Read Connors 1996 from [Sources](https://github.com/THOMASELOVE/500-sources)
+  2. Skim D'Agostino Jr 1998 from [Sources](https://github.com/THOMASELOVE/500-sources)
+- Complete and submit [Project](proj500.qmd) Proposal Draft 2 to Canvas by **9 AM on Thursday 2025-02-27**.
+- **Warning**: Be prepared. In the Zoom meeting on 2025-02-27, each of you will give a 2-3 minute talk (no slides) in which you will *briefly* describe the title, population, outcome, treatment and covariates included in your second Project Proposal draft. Be prepared to specify where the data come from, and how you sampled it (or plan to sample it), as well as any collaborators you are working with.
 
 ## March 2025
 
@@ -166,5 +133,40 @@ This should be in person, starting at 9 AM and running until 11:15 AM in Wolstei
 - When prompted via email by the University (usually in late April), please visit <https://webapps.case.edu/courseevals/> and complete the course evaluations before they close.
 
 
+## January 2025
+
+### [Class 01 (2025-01-16) Link](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class01)
+
+Zoom class 1 will take place on Thursday 2025-01-16 from 10-11 AM. Complete the following prior to that session:
+
+- Watch recorded Lecture 1: RCTs and Observational Studies; A Motivating Example
+- Complete reading before Class 1: 
+  - Benson and Hartz 2000 from [Sources](https://github.com/THOMASELOVE/500-sources)
+  - **PRR CI** through Chapter 2, if possible.
+
+### [Class 02 (2025-01-23) Link](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class02)
+
+Zoom class 2 will take place on Thursday 2025-01-23 from 10-11 AM. Complete the following prior to that session:
+
+- Watch recorded Lecture 2: STROBE, HRT, Assessing Causal Effects, Propensity Score
+- Get R and RStudio plus the necessary R packages installed/updated on your machine, following the [software](software.qmd) instructions.
+- Work through [Lab 0](lab0.qmd), referring to the [template and sketch](lab0.qmd). There's nothing to turn in, but it will help with future labs.
+- Complete reading before Class 2: 
+  1. **PRR CI** through Chapter 3,
+  2. Abramson Chapter 2 from [Sources](https://github.com/THOMASELOVE/500-sources),
+  3. McGowan blog post from [Sources](https://github.com/THOMASELOVE/500-sources),
+  4. Bradford Hill 1965 from [Sources](https://github.com/THOMASELOVE/500-sources).
+
+### [Class 03 (2025-01-30) Link](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class03)
+
+Zoom class 3 will take place on Thursday 2025-01-30 from 10-11 AM. Complete the following prior to that session:
+
+- Watch recorded Lecture 3: Building the PS Model, Matching/Stratification/Adjustment, Love Plots
+- Complete and Submit [Lab 1](lab1.qmd) to [Canvas](https://canvas.case.edu/) by **9 AM** on 2025-01-30.
+- Your [OSIA selections](osia.qmd) to **Thomas** dot **Love** at **case** dot **edu** by **9 AM on Wednesday, 2025-02-19** but you can send them earlier to lock that in.
+- Complete reading before Class 3: 
+  1. **PRR CI** through Chapter 4,
+  2. Gum 2001 from [Sources](https://github.com/THOMASELOVE/500-sources),
+  3. skim Connors 1996 from [Sources](https://github.com/THOMASELOVE/500-sources)
 
 
