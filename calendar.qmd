@@ -80,8 +80,10 @@ Zoom class 8 will take place on Thursday 2025-03-06 from 10-11 AM. Complete the 
 - Complete and submit [Lab 3](lab3.qmd) to Canvas by **9 AM on 2025-03-06**.
 - Complete reading before Class 8: 
   1. **PRR CI** through Chapter 7.
-  2. Tanenbaum 2019 from [Sources](https://github.com/THOMASELOVE/500-sources)
-  3. Elbadawi 2021 from [Sources](https://github.com/THOMASELOVE/500-sources)
+  2. Read Whitehouse 2007 from [Sources](https://github.com/THOMASELOVE/500-sources)
+  3. Skim Landrum and Ayanian 2001 from [Sources](https://github.com/THOMASELOVE/500-sources)
+  4. Skim Tanenbaum 2019 from [Sources](https://github.com/THOMASELOVE/500-sources)
+  5. Skim Elbadawi 2021 from [Sources](https://github.com/THOMASELOVE/500-sources)
 
 ### Spring Break includes 2025-03-13
 
