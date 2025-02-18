@@ -73,7 +73,7 @@ Submit final versions of your 2-4 slides for your presentation to our **Shared G
 
 ### Audience Role
 
-For each OSIA study presented in class, everyone will read the abstracts in advance, so that we can have some understanding of what's involved and contribute to the discussion. PDFs of the papers will be posted to [the Claims page](https://github.com/THOMASELOVE/500-osia-2025) as they are approved by Dr. Love, and the **Shared Google Drive** will eventually contain these PDFs as well as slides for all of the in-class presentations.
+For each OSIA study presented in class, everyone will read the abstracts in advance, so that we can have some understanding of what's involved and contribute to the discussion. PDFs of the papers will be posted to [the Claims page](https://github.com/THOMASELOVE/500-classes-2025/tree/main/osia) as they are approved by Dr. Love, and the **Shared Google Drive** will eventually contain these PDFs as well as slides for all of the in-class presentations.
 
 ## Presentation Submission Details (for Recorded Talks)
 
