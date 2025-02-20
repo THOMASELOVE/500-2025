@@ -19,7 +19,7 @@ There is more to a statistical application than the analysis of a canned data se
 
 I want you to establish relevant and interesting research questions related to a problem of interest, procure data to help answer the questions and pose others, and communicate your results to an audience of your peers. You will be responsible for the following elements of a project. 
 
-1. The [Project Proposal](#the-project-proposal) for which you will submit to [Canvas](https://canvas.case.edu/) an initial draft for my review, and then a second draft responding to my review and providing more details, according to the deadlines in the [Course Calendar](calendar.qmd). With the second draft, you will also need to complete [this scheduling form](https://bit.ly/500-project-schedule-2025).
+1. The [Project Proposal](#the-project-proposal) for which you will submit to [Canvas](https://canvas.case.edu/) an initial draft for my review, and then a second draft responding to my review and providing more details, according to the deadlines in the [Course Calendar](calendar.qmd). With the second draft, you'll also produce a revision of some slides I've sent to you so you can present your draft plan in class. Shortly after the second draft is due, you will also need to complete [this scheduling form](https://bit.ly/500-project-schedule-2025) for the projects.
 
 - Once you have your data, you will probably want to look at the [Analysis Tips](#analysis-tips) we've gathered.
 
@@ -35,7 +35,17 @@ I want you to establish relevant and interesting research questions related to a
 
 The Proposal is submitted via [Canvas](https://canvas.case.edu/) in two versions, first an *initial draft* and then a *final proposal*. The deadlines for both the initial draft and the final version are specified on the [Course Calendar](calendar.qmd). There is no substantial difference between the two versions, except that I am hopeful that you will have a final version of your data set the second time around, whereas in the first draft, you can get by with some uncertainty on some issues related to your data. 
 
-- As part of the second draft, you will also [complete this form](https://bit.ly/500-project-schedule-2025) related to scheduling the presentations. The form will open on 
+## NEW Requirement for Second Draft
+
+- Along with the other materials you will submit by Thursday February 27 at 9 AM to Canvas regarding the second draft of your Project Proposal, I am adding something. 
+- As I mentioned, I want you to give a short (2-3 minute) presentation of your second draft.
+- To aid in this, I have prepared a set of 3-4 slides for each of you, which are now available (.qmd and .html files) on our Shared Drive in the Project Proposal Presentation Slides (First Drafts by TEL) folder. 
+    - There is a separate document there for each you. 
+    - Your job is to download the qmd version of that document I've set up for you, then edit it, as appropriate, to include your covariates, respond to any requests in the document, and then upload the resulting qmd file (now with a filename indicating this is draft2, instead of draft1) to Canvas by the same deadline of Thursday February 27 at 9 AM.
+    - I will then grab those slides, and show them on screen as you give your presentation in class on February 27 at 10 AM. 
+    - If you will not be able to attend class that day, please email me to let me know. I've probably forgotten - if you're in that situation, we'll have you talk to your slides the next week.
+
+Note that after we have discussed the second drafts on 2025-02-27, I will ask you to [complete this form](https://bit.ly/500-project-schedule-2025) related to scheduling the presentations. The form will become available on 2025-02-28, and will be due in early March.
 
 ## What should the proposal look like? 
 
@@ -177,7 +187,7 @@ You might consider these possibilities...
 
 ## Submission
 
-The Project Update is to be submitted to [Canvas](https://canvas.case.edu/) by the deadline specified in the [Course Calendar](calendar.qmd).
+The Project Update is to be submitted to [Canvas](https://canvas.case.edu/) by the deadline in late March specified in the [Course Calendar](calendar.qmd).
 
 ## Details
 

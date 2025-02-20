@@ -32,7 +32,7 @@ Please be sure to specify that you meet each of the four standards listed above.
 
 All claims must be made by the deadline posted on the [Course Calendar](calendar.qmd).
 
-##  Your Presentation as First Reader
+## Your Presentation as First Reader
 
 You will give a 12 minute presentation to the rest of the class summarizing the background, methods and key results of the study. 
 
