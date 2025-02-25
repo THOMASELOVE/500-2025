@@ -92,18 +92,18 @@ Zoom class 8 will take place on Thursday 2025-03-06 from 10-11 AM. Complete the 
 
 ### Spring Break includes 2025-03-13
 
-### Class 09 (2025-03-20)
+### [Class 09 (2025-03-20) link](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class09)
 
-This, I hope, will be our first in-person class, starting at 9 AM and running until 11:15 AM in Wolstein Research Building, room 1217.
+This will be our first in-person class, starting at 9:05 AM and running until 11:15 AM in Wolstein Research Building, room 1217.
 
 - Complete and submit [Lab 4](lab4.qmd) to Canvas by **8 AM on 2025-03-20**.
 - OSIA session 1 (schedule TBA)
 - Complete reading of **PRR CI** through Chapter 8.
 - Skim Elbadawi 2021 from [Sources](https://github.com/THOMASELOVE/500-sources)
 
-### Class 10 (2025-03-27)
+### [Class 10 (2025-03-27) link](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class10)
 
-Again, I hope this will be in person, starting at 9 AM and running until 11:15 AM in Wolstein Research Building, room 1217.
+This will be in person, starting at 9:05 AM and running until 11:15 AM in Wolstein Research Building, room 1217.
 
 - [Project Update](https://thomaselove.github.io/500-2025/proj500.html#the-project-update) due to Canvas at 9 AM on Wednesday 2025-03-26.
 - OSIA session 2 (schedule TBA)
@@ -114,28 +114,30 @@ Again, I hope this will be in person, starting at 9 AM and running until 11:15 A
 
 ### Class 11 (2025-04-03)
 
-Again, I hope this will be in person, starting at 9 AM and running until 11:15 AM in Wolstein Research Building, room 1217.
+This will be in person, starting at 9:05 AM and running until 11:15 AM in Wolstein Research Building, room 1217.
 
 - OSIA session 3 (schedule TBA)
 - Final discussion and Q&A for projects before presentations (which start next week.)
+- Skim Lehr et al 2019 from [Sources](https://github.com/THOMASELOVE/500-sources)
 
 ### Class 12 (2025-04-10)
 
-This should be in person, starting at 9 AM and running until 11:15 AM in Wolstein Research Building, room 1217.
+This should be in person, starting at 9:05 AM and running until 11:15 AM in Wolstein Research Building, room 1217.
 
 - Project Presentations group A (schedule TBA)
 
 ### Class 13 (2025-04-17)
 
-This should be in person, starting at 9 AM and running until 11:15 AM in Wolstein Research Building, room 1217.
+This should be in person, starting at 9:05 AM and running until 11:15 AM in Wolstein Research Building, room 1217.
 
 - Project Presentations group B (schedule TBA)
 
 ### Class 14 (2025-04-24)
 
-This should be in person, starting at 9 AM and running until 11:15 AM in Wolstein Research Building, room 1217.
+This should be in person, starting at 9:05 AM and running until 11:15 AM in Wolstein Research Building, room 1217.
 
 - Project Presentations group C (schedule TBA)
+- Course Wrapup from Dr. Love
 
 ## Final Deadlines
 
