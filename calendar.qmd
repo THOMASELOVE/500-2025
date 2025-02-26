@@ -97,7 +97,11 @@ Zoom class 8 will take place on Thursday 2025-03-06 from 10-11 AM. Complete the 
 This will be our first in-person class, starting at 9:05 AM and running until 11:15 AM in Wolstein Research Building, room 1217.
 
 - Complete and submit [Lab 4](lab4.qmd) to Canvas by **8 AM on 2025-03-20**.
-- OSIA session 1 (schedule TBA)
+- OSIA session 1 (schedule [posted here](https://github.com/THOMASELOVE/500-classes-2025/blob/main/osia/README.md))
+    - Katie Hassett (1st) and JiaWei Yu (2nd) discussing Beauchat et al 2025
+    - Ajay Mahenthiran (1st) and Tatchaporn Ongphichetmetha (2nd) discussing Zheng et al 2024
+    - Trisha Lal (1st) and Sarah Albalawi (2nd) discussing Mackay et al 2022
+    - Dana Jian (1st) and Logan Harper (2nd) discussing Zhang et al 2025
 - Complete reading of **PRR CI** through Chapter 8.
 - Skim Elbadawi 2021 from [Sources](https://github.com/THOMASELOVE/500-sources)
 
@@ -106,7 +110,10 @@ This will be our first in-person class, starting at 9:05 AM and running until 11
 This will be in person, starting at 9:05 AM and running until 11:15 AM in Wolstein Research Building, room 1217.
 
 - [Project Update](https://thomaselove.github.io/500-2025/proj500.html#the-project-update) due to Canvas at 9 AM on Wednesday 2025-03-26.
-- OSIA session 2 (schedule TBA)
+- OSIA session 2 (schedule [posted here](https://github.com/THOMASELOVE/500-classes-2025/blob/main/osia/README.md))
+    - Olivia Lindberg	(1st) and Anika Krishna (2nd) discussing Chen and Mallory 2021
+    - Tatchaporn Ongphichetmetha (1st) and Katie Hassett (2nd) discussing Prosperini et al. 2018
+    - Kelly Bowen (1st) and Dana Jian (2nd) discussing MacDonald et al. 2022
 - Complete reading of **PRR CI** through Chapter 9.
 - Skim Posner 2001 from [Sources](https://github.com/THOMASELOVE/500-sources)
 
@@ -116,7 +123,11 @@ This will be in person, starting at 9:05 AM and running until 11:15 AM in Wolste
 
 This will be in person, starting at 9:05 AM and running until 11:15 AM in Wolstein Research Building, room 1217.
 
-- OSIA session 3 (schedule TBA)
+- OSIA session 3 (schedule [posted here](https://github.com/THOMASELOVE/500-classes-2025/blob/main/osia/README.md))
+    - Sarah Albalawi (1st) and Ajay Mahenthiran (2nd) discussing Ishimaru et al 2019
+    - Anika Krishna (1st) and Trisha Lal (2nd) discussing Li et al 2020
+    - JiaWei Yu (1st) and Olivia Lindberg (2nd) discussing Peng et al 2021
+    - Logan Harper (1st) and Kelly Bowen (2nd) discussing Hadi et al 2021
 - Final discussion and Q&A for projects before presentations (which start next week.)
 - Skim Lehr et al 2019 from [Sources](https://github.com/THOMASELOVE/500-sources)
 
