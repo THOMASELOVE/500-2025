@@ -70,7 +70,6 @@ Zoom class 7 will take place on Thursday 2025-02-27 from 10-11 AM. Complete the 
     - I have prepared a set of 3-4 slides for each of you, which are now available (.qmd and .html files) on our Shared Drive in the Project Proposal Presentation Slides (First Drafts by TEL) folder.  
     - **NEW PART OF THE ASSIGNMENT** Part of your job in submitting Draft 2 is now to download the qmd version of that document I've set up for you, then edit it, as appropriate, to include your covariates, respond to any requests in the document, and then upload the resulting qmd file (now with a filename indicating this is draft2, instead of draft1) to Canvas by the same deadline of Thursday February 27 at 9 AM.
     - I will then grab those revised slides, and show them on screen as you give your presentation in class on February 27 at 10 AM. 
-    - If you will not be able to attend class that day, please email me to let me know. I've probably forgotten - if you're in that situation, we'll have you talk to your slides the next week.
 - Watch recorded Lecture 7: The SUPPORT Study, Sensitivity Analyses after Matching
 - Complete reading before Class 7: 
   1. Read Connors 1996 from [Sources](https://github.com/THOMASELOVE/500-sources)
@@ -83,12 +82,14 @@ Zoom class 7 will take place on Thursday 2025-02-27 from 10-11 AM. Complete the 
 Zoom class 8 will take place on Thursday 2025-03-06 from 10-11 AM. Complete the following prior to that session:
 
 - Watch recorded Lecture 8: Extensions to Matching, Instrumental Variables
+- Complete the [Project Presentation Scheduling Form](https://bit.ly/500-project-schedule-2025) by 9 AM on **Wednesday** 2025-03-05.
 - Complete and submit [Lab 3](lab3.qmd) to Canvas by **9 AM on 2025-03-06**.
 - Complete reading before Class 8: 
   1. **PRR CI** through Chapter 7.
   2. Read Whitehouse 2007 from [Sources](https://github.com/THOMASELOVE/500-sources)
   3. Skim Landrum and Ayanian 2001 from [Sources](https://github.com/THOMASELOVE/500-sources)
   4. Skim Tanenbaum 2019 from [Sources](https://github.com/THOMASELOVE/500-sources)
+  5. We'll hear during the Zoom call from those who didn't present their Project Proposal drafts last week.
 
 ### Spring Break includes 2025-03-13
 
