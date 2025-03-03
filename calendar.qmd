@@ -9,7 +9,7 @@ This Calendar serves as the final word on all deadlines, deliverables and class 
 
 - Thanks to Dr. Love's broken leg, this year's 500 class will be held **remotely** before Spring Break, and then in person starting March 20.
 - The first eight classes will be held via Zoom from **10-11 AM** on Thursday mornings.
-- In person classes (Classes 9-14) will be held on Thursdays from **9:00 - 11:15 AM** in Wolstein Research Building, Room 1217.
+- In person classes (Classes 9-14) will be held on Thursdays from **9:00 - 11:15 AM** in Wolstein Research Building, Room 1217. For directions and parking information, [visit this link](https://case.edu/medicine/cbhi/about-us/directions-and-parking/cwru-school-medicine-health-sciences-campus).
 
 ## Email and Office Hours
 
@@ -43,7 +43,7 @@ Zoom class 8 will take place on Thursday 2025-03-06 from 10-11 AM. Complete the 
 
 ### [Class 09 (2025-03-20) link](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class09)
 
-This will be our first in-person class, starting at 9:05 AM and running until 11:15 AM in Wolstein Research Building, room 1217.
+This will be our first in-person class, starting at 9:05 AM and running until 11:15 AM in Wolstein Research Building, room 1217. For directions and parking information, [visit this link](https://case.edu/medicine/cbhi/about-us/directions-and-parking/cwru-school-medicine-health-sciences-campus).
 
 - Complete and submit [Lab 4](lab4.qmd) to Canvas by **8 AM on 2025-03-20**.
 - OSIA session 1 (schedule [posted here](https://github.com/THOMASELOVE/500-classes-2025/blob/main/osia/README.md))
