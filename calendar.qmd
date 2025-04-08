@@ -22,63 +22,8 @@ This Calendar serves as the final word on all deadlines, deliverables and class 
 During the course, we will read Paul Rosenbaum's book **Causal Inference** (abbreviated **PRR CI** below), which is available as an e-book or in paperback for under $15. Please obtain the book before our first class on 2025-01-16, and get started reading it as soon as possible.
 
 
+## Project Presentations
 
-## March 2025
-
-### [Class 08 (2025-03-06) link](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class08)
-
-Zoom class 8 will take place on Thursday 2025-03-06 from 10-11 AM. Complete the following prior to that session:
-
-- Watch recorded Lecture 8: Extensions to Matching, Instrumental Variables
-- Complete the [Project Presentation Scheduling Form](https://bit.ly/500-project-schedule-2025) by 9 AM on **Wednesday** 2025-03-05.
-- Complete and submit [Lab 3](lab3.qmd) to Canvas by **9 AM on 2025-03-06**.
-- Complete reading before Class 8: 
-  1. **PRR CI** through Chapter 7.
-  2. Read Whitehouse 2007 from [Sources](https://github.com/THOMASELOVE/500-sources)
-  3. Skim Landrum and Ayanian 2001 from [Sources](https://github.com/THOMASELOVE/500-sources)
-  4. Skim Tanenbaum 2019 from [Sources](https://github.com/THOMASELOVE/500-sources)
-  5. We'll hear during the Zoom call from those who didn't present their Project Proposal drafts last week.
-
-### Spring Break includes 2025-03-13
-
-### [Class 09 (2025-03-20) link](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class09)
-
-This will be our first in-person class, starting at 9:05 AM and running until 11:15 AM in Wolstein Research Building, room 1217. For directions and parking information, [visit this link](https://case.edu/medicine/cbhi/about-us/directions-and-parking/cwru-school-medicine-health-sciences-campus).
-
-- Complete and submit [Lab 4](lab4.qmd) to Canvas by **8 AM on 2025-03-20**.
-- OSIA session 1 (schedule [posted here](https://github.com/THOMASELOVE/500-classes-2025/blob/main/osia/README.md))
-    - Katie Hassett (1st) and JiaWei Yu (2nd) discussing Beauchat et al 2025
-    - Ajay Mahenthiran (1st) and Tatchaporn Ongphichetmetha (2nd) discussing Zheng et al 2024
-    - Trisha Lal (1st) and Sarah Albalawi (2nd) discussing Mackay et al 2022
-    - Dana Jian (1st) and Logan Harper (2nd) discussing Zhang et al 2025
-- Complete reading of **PRR CI** through Chapter 8.
-- Skim Elbadawi 2021 from [Sources](https://github.com/THOMASELOVE/500-sources)
-
-### [Class 10 (2025-03-27) link](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class10)
-
-This will be in person, starting at 9:05 AM and running until 11:15 AM in Wolstein Research Building, room 1217.
-
-- [Project Update](https://thomaselove.github.io/500-2025/proj500.html#the-project-update) due to Canvas at 9 AM on Wednesday 2025-03-26.
-- OSIA session 2 (schedule [posted here](https://github.com/THOMASELOVE/500-classes-2025/blob/main/osia/README.md))
-    - Olivia Lindberg	(1st) and Anika Krishna (2nd) discussing Chen and Mallory 2021
-    - Tatchaporn Ongphichetmetha (1st) and Katie Hassett (2nd) discussing Prosperini et al. 2018
-    - Kelly Bowen (1st) and Dana Jian (2nd) discussing MacDonald et al. 2022
-- Complete reading of **PRR CI** through Chapter 9.
-- Skim Posner 2001 from [Sources](https://github.com/THOMASELOVE/500-sources)
-
-## April 2025
-
-### [Class 11 (2025-04-03) link](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class11)
-
-This will be in person, starting at 9:05 AM and running until 11:15 AM in Wolstein Research Building, room 1217.
-
-- OSIA session 3 (schedule [posted here](https://github.com/THOMASELOVE/500-classes-2025/blob/main/osia/README.md))
-    - Sarah Albalawi (1st) and Ajay Mahenthiran (2nd) discussing Ishimaru et al 2019
-    - Anika Krishna (1st) and Trisha Lal (2nd) discussing Li et al 2020
-    - JiaWei Yu (1st) and Olivia Lindberg (2nd) discussing Peng et al 2021
-    - Logan Harper (1st) and Kelly Bowen (2nd) discussing Hadi et al 2021
-- Final discussion and Q&A for projects before presentations (which start next week.)
-- Skim Lehr et al 2019 from [Sources](https://github.com/THOMASELOVE/500-sources)
 
 ### [Class 12 (2025-04-10) link](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class12)
 
@@ -194,3 +139,60 @@ Zoom class 7 will take place on Thursday 2025-02-27 from 10-11 AM. Complete the 
   1. Read Connors 1996 from [Sources](https://github.com/THOMASELOVE/500-sources)
   2. Skim D'Agostino Jr 1998 from [Sources](https://github.com/THOMASELOVE/500-sources)
 
+
+## March 2025
+
+### [Class 08 (2025-03-06) link](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class08)
+
+Zoom class 8 will take place on Thursday 2025-03-06 from 10-11 AM. Complete the following prior to that session:
+
+- Watch recorded Lecture 8: Extensions to Matching, Instrumental Variables
+- Complete the [Project Presentation Scheduling Form](https://bit.ly/500-project-schedule-2025) by 9 AM on **Wednesday** 2025-03-05.
+- Complete and submit [Lab 3](lab3.qmd) to Canvas by **9 AM on 2025-03-06**.
+- Complete reading before Class 8: 
+  1. **PRR CI** through Chapter 7.
+  2. Read Whitehouse 2007 from [Sources](https://github.com/THOMASELOVE/500-sources)
+  3. Skim Landrum and Ayanian 2001 from [Sources](https://github.com/THOMASELOVE/500-sources)
+  4. Skim Tanenbaum 2019 from [Sources](https://github.com/THOMASELOVE/500-sources)
+  5. We'll hear during the Zoom call from those who didn't present their Project Proposal drafts last week.
+
+### Spring Break includes 2025-03-13
+
+### [Class 09 (2025-03-20) link](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class09)
+
+This will be our first in-person class, starting at 9:05 AM and running until 11:15 AM in Wolstein Research Building, room 1217. For directions and parking information, [visit this link](https://case.edu/medicine/cbhi/about-us/directions-and-parking/cwru-school-medicine-health-sciences-campus).
+
+- Complete and submit [Lab 4](lab4.qmd) to Canvas by **8 AM on 2025-03-20**.
+- OSIA session 1 (schedule [posted here](https://github.com/THOMASELOVE/500-classes-2025/blob/main/osia/README.md))
+    - Katie Hassett (1st) and JiaWei Yu (2nd) discussing Beauchat et al 2025
+    - Ajay Mahenthiran (1st) and Tatchaporn Ongphichetmetha (2nd) discussing Zheng et al 2024
+    - Trisha Lal (1st) and Sarah Albalawi (2nd) discussing Mackay et al 2022
+    - Dana Jian (1st) and Logan Harper (2nd) discussing Zhang et al 2025
+- Complete reading of **PRR CI** through Chapter 8.
+- Skim Elbadawi 2021 from [Sources](https://github.com/THOMASELOVE/500-sources)
+
+### [Class 10 (2025-03-27) link](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class10)
+
+This will be in person, starting at 9:05 AM and running until 11:15 AM in Wolstein Research Building, room 1217.
+
+- [Project Update](https://thomaselove.github.io/500-2025/proj500.html#the-project-update) due to Canvas at 9 AM on Wednesday 2025-03-26.
+- OSIA session 2 (schedule [posted here](https://github.com/THOMASELOVE/500-classes-2025/blob/main/osia/README.md))
+    - Olivia Lindberg	(1st) and Anika Krishna (2nd) discussing Chen and Mallory 2021
+    - Tatchaporn Ongphichetmetha (1st) and Katie Hassett (2nd) discussing Prosperini et al. 2018
+    - Kelly Bowen (1st) and Dana Jian (2nd) discussing MacDonald et al. 2022
+- Complete reading of **PRR CI** through Chapter 9.
+- Skim Posner 2001 from [Sources](https://github.com/THOMASELOVE/500-sources)
+
+## April 2025 - class 11
+
+### [Class 11 (2025-04-03) link](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class11)
+
+This will be in person, starting at 9:05 AM and running until 11:15 AM in Wolstein Research Building, room 1217.
+
+- OSIA session 3 (schedule [posted here](https://github.com/THOMASELOVE/500-classes-2025/blob/main/osia/README.md))
+    - Sarah Albalawi (1st) and Ajay Mahenthiran (2nd) discussing Ishimaru et al 2019
+    - Anika Krishna (1st) and Trisha Lal (2nd) discussing Li et al 2020
+    - JiaWei Yu (1st) and Olivia Lindberg (2nd) discussing Peng et al 2021
+    - Logan Harper (1st) and Kelly Bowen (2nd) discussing Hadi et al 2021
+- Final discussion and Q&A for projects before presentations (which start next week.)
+- Skim Lehr et al 2019 from [Sources](https://github.com/THOMASELOVE/500-sources)

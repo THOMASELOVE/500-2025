@@ -59,7 +59,7 @@ What you should do instead as second reader (regardless of whether you do so liv
 
 You could also (especially if you have specialized knowledge of the topic) provide a little additional motivation for the choices made by the researchers, as needed. But keep it to no more than 4 slides, not including a title slide with your name, an indication that you're the second reader and the paper's details on it.
 
-## Presentation Submission Details (for the "In Class" Talks)
+## Presentation Submission Details
 
 ### for the First Reader
 
@@ -75,17 +75,5 @@ Submit final versions of your 2-4 slides for your presentation to our **Shared G
 
 For each OSIA study presented in class, everyone will read the abstracts in advance, so that we can have some understanding of what's involved and contribute to the discussion. PDFs of the papers will be posted to [the Claims page](https://github.com/THOMASELOVE/500-classes-2025/tree/main/osia) as they are approved by Dr. Love, and the **Shared Google Drive** will eventually contain these PDFs as well as slides for all of the in-class presentations.
 
-## Presentation Submission Details (for Recorded Talks)
 
-### for the First Reader
-
-Submit an .mp4 video recording (not to exceed 12 minutes) and the slides for your presentation to our **Shared Google Drive** by the deadline on the Course Calendar. The file name for each should include your name.
-
-- This will allow Dr. Love, the second reader of your article, and anyone else in the class to review your materials.
-
-### for the Second Reader
-
-Submit an .mp4 video recording (not to exceed 3 minutes) of your presentation and your slides to our **Shared Google Drive** by the deadline on the Course Calendar. Again, your file names should include your name.
-
-We expect you to have reviewed the slides prepared by the First Reader (which will be posted the previous week) in preparing your materials.
 
