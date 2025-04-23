@@ -22,26 +22,23 @@ This Calendar serves as the final word on all deadlines, deliverables and class 
 During the course, we will read Paul Rosenbaum's book **Causal Inference** (abbreviated **PRR CI** below), which is available as an e-book or in paperback for under $15. Please obtain the book before our first class on 2025-01-16, and get started reading it as soon as possible.
 
 
-## Project Presentations
-
-
-### [Class 13 (2025-04-17) link](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class13)
-
-This will be in person, in Wolstein Research Building, room 1217 from 9 AM to 11:15 AM.
-
-- Project Presentations group B (Trisha, Tatchaporn, Anika and Olivia)
+## End of Semester
 
 ### [Class 14 (2025-04-24) link](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class14)
 
 This will be in person, in Wolstein Research Building, room 1217 from 9 AM to 11:15 AM.
 
-- Project Presentations group C (Sarah, Dana and Kelly)
+- Project Presentations group C (Dana, Sarah, Anika and Kelly)
 - Course Wrap-up from Dr. Love
 
 ## Final Deadlines
 
 - Final Project Submissions are due to [Canvas](https://canvas.case.edu/) at **9 AM on Monday 2025-04-28** from everyone regardless of when you give your project presentation.
 - When prompted via email by the University (usually in late April), please visit <https://webapps.case.edu/courseevals/> and complete the course evaluations before they close.
+
+## When will the materials disappear?
+
+They'll be online through June 1. After that, I will remove them.
 
 
 ## January 2025
@@ -196,3 +193,10 @@ This will be in person, starting at 9:05 AM and running until 11:15 AM in Wolste
 This will be in person, in Wolstein Research Building, room 1217 from 9 AM to 11:15 AM.
 
 - Project Presentations group A (Ajay, JiaWei, Logan and Catherine).
+
+
+### [Class 13 (2025-04-17) link](https://github.com/THOMASELOVE/500-classes-2025/tree/main/class13)
+
+This will be in person, in Wolstein Research Building, room 1217 from 9 AM to 11:15 AM.
+
+- Project Presentations group B (Trisha, Tatchaporn and Olivia)
